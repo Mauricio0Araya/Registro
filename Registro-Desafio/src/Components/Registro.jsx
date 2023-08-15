@@ -17,6 +17,7 @@ const Registro = () => {
           <SocialButton icon="fa-brands fa-github" />
           <SocialButton icon="fa-brands fa-linkedin" />
           <SocialButton icon= "fa-brands fa-instagram"/>
+          <SocialButton icon= "fa-brands fa-google"/>
         </div>
         <div className="form">
           <Formulario setAlert={setAlert} />
